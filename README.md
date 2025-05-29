@@ -1,4 +1,4 @@
-# 🛒 Gestión de Productos con React + Vite
+# 🛒 Taller Final con React + Vite
 
 Esta es una aplicación web construida con **React** y **Vite** que permite gestionar productos: puedes **agregar, editar, eliminar, filtrar** productos localmente (en memoria), y también **consultar productos desde una API pública**.
 
