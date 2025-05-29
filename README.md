@@ -1,10 +1,10 @@
-# 🛒 Taller Final con React + Vite
+# Taller Final con React + Vite | Servicios web (MARTES)
 
 Esta es una aplicación web construida con **React** y **Vite** que permite gestionar productos: puedes **agregar, editar, eliminar, filtrar** productos localmente (en memoria), y también **consultar productos desde una API pública**.
 
 ---
 
-## 🚀 Características
+## Características: 
 
 ### ✅ Fase 1 – Datos en Memoria
 - Formulario controlado para registrar productos.
@@ -22,21 +22,30 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 
 ---
 
-## 🛠️ Instalación y Uso
+## Instalación y Uso de la app: 
 - npm install
 - npm run dev
 
 
-### Clonar el repositorio
+### Clonar el repositorio: 
 - git clone https://github.com/jrem08/CarritoCompra-React.git
 - cd gestion-productos
 
 ---
 
-### Tecnologias usadas
+### Tecnologias usadas: 
 - React
 - Vite
 - Fake Store API
 - CSS puro
+
+---
+
+### Integrantes: 
+- Maikel Zapata
+- Sebastian Naranjo
+- Valentina Quintero
+- Juan David Rengifo
+
 
 
