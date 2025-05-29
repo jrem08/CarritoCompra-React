@@ -33,17 +33,7 @@ npm run dev
 git clone https://github.com/tu-usuario/gestion-productos.git
 cd gestion-productos
 
-### Estructura del proyecto
 
-src/
-├── components/
-│   ├── Formulario.jsx
-│   ├── Listado.jsx
-│   ├── Filtros.jsx
-│   └── ListadoAPI.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
 
 ### Tecnologias usadas
 - React
