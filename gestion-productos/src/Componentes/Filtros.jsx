@@ -3,7 +3,7 @@ const Filtros = ({ filtro, setFiltro }) => {
     <div>
       <input
         type="text"
-        placeholder="Buscar por nombre o categoría..."
+        placeholder="Buscar por nombre o categoría"
         value={filtro}
         onChange={(e) => setFiltro(e.target.value)}
       />

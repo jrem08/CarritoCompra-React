@@ -1,9 +1,9 @@
 const Listado = ({ productos, onEditar, onEliminar }) => {
   return (
     <div>
-      <h2>Listado de Productos</h2>
+      <h2>Lista de Productos</h2>
       {productos.length === 0 ? (
-        <p>No hay productos registrados.</p>
+        <p>No hay productos registrados</p>
       ) : (
         <ul>
           {productos.map((producto) => (
