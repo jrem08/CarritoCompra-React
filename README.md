@@ -31,7 +31,7 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 - git clone https://github.com/jrem08/CarritoCompra-React.git
 - cd gestion-productos
 
-
+---
 
 ### Tecnologias usadas
 - React
