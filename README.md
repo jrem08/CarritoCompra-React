@@ -28,7 +28,7 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 
 
 ### Clonar el repositorio
-- git clone https://github.com/jrem08/gestion-productos
+- git clone https://github.com/jrem08/CarritoCompra-React.git
 - cd gestion-productos
 
 
