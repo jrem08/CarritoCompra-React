@@ -24,13 +24,13 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 
 ## 🛠️ Instalación y Uso
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 
 ### Clonar el repositorio
 
-git clone https://github.com/tu-usuario/gestion-productos.git
+git clone https://github.com/tu-usuario/gestion-productos
 cd gestion-productos
 
 
