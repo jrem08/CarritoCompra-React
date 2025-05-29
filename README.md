@@ -30,7 +30,7 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 
 ### Clonar el repositorio
 
-git clone https://github.com/tu-usuario/gestion-productos
+git clone https://github.com/jrem08/gestion-productos
 cd gestion-productos
 
 
