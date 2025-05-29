@@ -1,4 +1,4 @@
-/* Reset básico */
+
 body, h1, h2, h3, p, ul {
   margin: 0;
   padding: 0;
@@ -25,7 +25,6 @@ h1, h2 {
   margin-bottom: 20px;
 }
 
-/* Formularios */
 form {
   display: flex;
   flex-direction: column;
@@ -55,12 +54,10 @@ button {
 }
 
 
-/* Filtro */
 input[type="text"] {
   width: 100%;
 }
 
-/* Listado de productos locales */
 ul {
   list-style-type: none;
   margin-top: 20px;
@@ -71,14 +68,13 @@ li {
   border-radius: 6px;
   padding: 15px;
   margin-bottom: 15px;
-  background-color: #fdfdfd;
+  background-color: #1b1b32;
 }
 
 li button {
   margin-right: 10px;
 }
 
-/* Productos desde API */
 .productos-api {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

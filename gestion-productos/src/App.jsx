@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Taller React + Vite</h1>
+      <h1>Proyecto Final | React</h1>
       <Formulario onGuardar={manejarGuardar} productoEditando={productoEditando} />
       <Filtros filtro={filtro} setFiltro={setFiltro} />
       <Listado productos={productosFiltrados} onEditar={setProductoEditando} onEliminar={manejarEliminar} />
