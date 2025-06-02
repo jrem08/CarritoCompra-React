@@ -26,6 +26,7 @@ Esta es una aplicación web construida con **React** y **Vite** que permite gest
 - npm install
 - npm run dev
 
+---
 
 ### Clonar el repositorio: 
 - git clone https://github.com/jrem08/CarritoCompra-React.git
